@@ -1,7 +1,7 @@
 
 # Christopher Castro's Portfolio
 
-I am an Electrical Engineering Major at CSUF and I am currently in senior standing, planning to graduate by the end of 2026 to early 2027. I plan on applying for internships in my field very soon, so I can start my career post graduation. I currently work at Trader Joe's and have been for the past 8 years, ever since I graduated high school. I transferred to CSUF from Santa Monica College (SMC) and have been very pleased with my decision to attend this university.
+I am an Electrical Engineering Major at CSUF and I am currently in senior standing, planning to graduate by the end of 2026 to early 2027. I plan on applying for internships in my field very soon, so I can start my career post graduation. I currently work at Trader Joe's and have been for the past 8 years, ever since I graduated high school. I transferred to CSUF from Santa Monica College (SMC) and have been very pleased with my decision to attend this university. My github profile is @cecastro99.
 
 ## Favorite Labs from CPSC 120:
 * Lab 4:
